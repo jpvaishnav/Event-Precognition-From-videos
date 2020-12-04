@@ -78,7 +78,7 @@ Setting up the data
 
 ---
 
-## Installation & Run
+## Installation & run
 
 ```html
     # install required packages 
